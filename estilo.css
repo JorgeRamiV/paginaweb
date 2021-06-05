@@ -1,0 +1,107 @@
+  
+  
+  .container{
+    width: 1280px;
+    background: navajowhite;
+    margin: auto;
+    border-radius: 25px;
+    font-family: "Comic Sans MS", cursive;
+
+  }
+  .top {
+    margin-top: 10px;
+  }
+  .menu{
+
+    float: right;
+  }
+  .menu li{
+    display: inline-block;
+    margin-top: 60px; 
+  }
+  .menu a{
+    color: black;
+    text-decoration: none;
+    padding: 20px; 
+    border-style: groove;
+    border-color: ghostwhite;
+    background: aliceblue;
+
+
+
+  }
+  .menu a:hover{
+    background: skyblue;
+    border-radius: 8px;
+
+  }
+  .col{
+    width: 265px;
+    display: inline-block;
+    vertical-align: top;
+    text-align: justify;
+    padding: 25px;  
+    border-style: groove;
+    border-width: 7px;
+    border-color: ghostwhite;
+    border-radius: 7px;
+    background: aliceblue;
+  }
+  .col h3{
+    color: darkred;
+    text-align: center;
+    font-size: 35px;
+    display: inline-block; 
+
+  }
+  .row{
+    text-align: center;
+  }
+  .footer{
+    overflow: hidden;
+  }
+  .footer a{
+    color: black;
+    text-decoration: none;
+
+  }
+  .footer span{
+    float: left;
+    margin-top: 60px;
+    margin-left: 30px;
+    margin: 80px; 
+  }
+
+  h1 {
+    color: black;
+    height: 50px;
+    margin-top: 30px;
+    margin-top: 30px;
+    text-align: center;
+    border-style: groove;
+    border-color: ghostwhite;
+    border-width: 7px;
+    border-radius: 7px;
+    background-color: aliceblue;
+    font-family: sans-serif; 
+  }
+
+  h2{
+    text-align: center;
+    border-style: groove;
+    border-color: ghostwhite;
+    border-width: 7px;
+    border-radius: 7px;
+    background-color: aliceblue;
+    font-family: sans-serif; 
+
+  }
+
+  h4{
+    text-align: left;
+    float: left;
+    margin-left: 15px;  
+  }
+
+
+
